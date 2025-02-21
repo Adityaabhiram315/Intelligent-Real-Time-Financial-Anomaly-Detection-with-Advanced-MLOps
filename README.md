@@ -1,5 +1,11 @@
 # Intelligent Real-Time Financial Anomaly Detection with Advanced MLOps
 
+
+https://github.com/user-attachments/assets/0f2a9692-5368-47be-a203-39cd2c2ec041
+
+
+
+
 ## Overview
 This project leverages **Machine Learning (ML)** and **MLOps** to detect fraudulent financial transactions in real-time. It integrates **Apache Kafka** for data streaming, **MLflow** for experiment tracking, **Kubeflow** for model deployment, and **Google BigQuery** for logging detected anomalies.
 
